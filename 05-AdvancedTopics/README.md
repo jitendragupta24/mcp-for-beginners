@@ -34,6 +34,7 @@ By the end of this lesson, you will be able to:
 | [5.12  Entra ID Authentication for Model Context Protocol Servers](./mcp-security-entra/README.md) | Entra ID Authentication | Microsoft Entra ID provides a robust cloud-based identity and access management solution, helping ensure that only authorized users and applications can interact with your MCP server.|
 | [5.13 Azure AI Foundry Agent Integration](./mcp-foundry-agent-integration/README.md) | Azure AI Foundry Integration | Learn how to integrate Model Context Protocol servers with Azure AI Foundry agents, enabling powerful tool orchestration and enterprise AI capabilities with standardized external data source connections.|
 | [5.14 Context Engineering](./mcp-contextengineering/README.md) | Context Engineering | The future opportunity of context engineering techniques for MCP servers, including context optimization, dynamic context management, and strategies for effective prompt engineering within MCP frameworks.|
+| [5.15 Anthropic Updates](./anthropic-updates-mcp/README.md) | Anthropic Updates MCP | Advanced MCP server that automatically pulls and integrates the latest developments from Anthropic. Features tools for fetching updates, changelogs, model improvements, and documentation search from Anthropic's repositories and resources.|
 
 ## Additional References
 

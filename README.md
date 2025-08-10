@@ -114,6 +114,7 @@ If you’re a developer, tool builder, or AI product strategist, this day is pac
 | 5.12 | Entra ID Auth | Authentication with Microsoft Entra ID | [Guide](./05-AdvancedTopics/mcp-security-entra/README.md) |
 | 5.13 | Foundry Integration | Integrate with Azure AI Foundry | [Guide](./05-AdvancedTopics/mcp-foundry-agent-integration/README.md) |
 | 5.14 | Context Engineering | Techniques for effective context engineering | [Guide](./05-AdvancedTopics/mcp-contextengineering/README.md) |
+| 5.15 | Anthropic Updates | Automatically fetch Anthropic developments | [Guide](./05-AdvancedTopics/anthropic-updates-mcp/README.md) |
 | **Module 6-10: Community & Best Practices** | | | |
 | 06 | Community Contributions | How to contribute to the MCP ecosystem | [Guide](./06-CommunityContributions/README.md) |
 | 07 | Insights from Early Adoption | Real-world implementation stories | [Guide](./07-LessonsFromEarlyAdoption/README.md) |
